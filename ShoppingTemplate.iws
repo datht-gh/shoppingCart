@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159ced06-6d2c-4cba-bd90-e7062a59bf96" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/images/bx_loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/images/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/img/product/iphone 6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/jquery.bxslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/jquery.bxslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/jquery.bxslider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/plugins/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/plugins/jquery.fitvids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/bxslider/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asserts/font-awesome-4.4.0/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShoppingTemplate.ipr" afterPath="$PROJECT_DIR$/ShoppingTemplate.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShoppingTemplate.iws" afterPath="$PROJECT_DIR$/ShoppingTemplate.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asserts/css/bootstrap.css" afterPath="$PROJECT_DIR$/asserts/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="159ced06-6d2c-4cba-bd90-e7062a59bf96" name="Default" comment="" />
     <ignored path="ShoppingTemplate.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
